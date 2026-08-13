@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "description": "SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedly scanning surrounding area and through that enable the robot to localize itself within that environment.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cartographer",
+          "description": "A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-05T19:21:01Z",
+            "owner": "cartographer-project",
+            "repo": "cartographer",
+            "stars": 7940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVSLAM",
+          "description": "A Versatile Visual SLAM Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-02-25T06:32:26Z",
+            "owner": "xdspacelab",
+            "repo": "openvslam",
+            "stars": 2979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BreezySLAM",
+          "description": "Simple, efficient, open-source package for Simultaneous Localization and Mapping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-05T18:31:28Z",
+            "owner": "simondlevy",
+            "repo": "BreezySLAM",
+            "stars": 812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS SLAM",
+          "description": "A ROS wrapper for OpenSlam's Gmapping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-21T00:33:41Z",
+            "owner": "ros-perception",
+            "repo": "slam_gmapping",
+            "stars": 736
+          }
+        }
+      ],
+      "title": "SLAM"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:32:27.760Z",
+    "original_repository": "awesome-vacuum/awesome-vacuum",
+    "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
+    "enhanced_repository": "enhansome/enhansome-vacuum",
+    "enhanced_repository_description": null,
+    "title": "awesome-vacuum with stars"
+  }
+}
