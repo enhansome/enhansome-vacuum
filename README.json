@@ -14,7 +14,7 @@
             "last_commit": "2024-01-05T19:21:01Z",
             "owner": "cartographer-project",
             "repo": "cartographer",
-            "stars": 7945
+            "stars": 7948
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2021-02-25T06:32:26Z",
             "owner": "xdspacelab",
             "repo": "openvslam",
-            "stars": 2978
+            "stars": 2977
           }
         },
         {
@@ -64,7 +64,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:38:56.096Z",
+    "last_updated": "2026-08-18T17:38:42.886Z",
     "original_repository": "awesome-vacuum/awesome-vacuum",
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
     "enhanced_repository": "enhansome/enhansome-vacuum",
