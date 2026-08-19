@@ -1,71 +1,203 @@
 {
   "items": [
     {
-      "description": "SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedly scanning surrounding area and through that enable the robot to localize itself within that environment.",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "cartographer",
-          "description": "A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+          "title": "Valetudo",
+          "description": "Cloud-free control webinterface for vacuum robots.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C++",
-            "last_commit": "2024-01-05T19:21:01Z",
-            "owner": "cartographer-project",
-            "repo": "cartographer",
-            "stars": 7948
+            "id": 140675080,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T19:06:31Z",
+            "owner": "Hypfer",
+            "repo": "Valetudo",
+            "stars": 9547
           }
         },
         {
           "node_type": "item",
-          "title": "OpenVSLAM",
-          "description": "A Versatile Visual SLAM Framework.",
+          "title": "Dustcloud",
+          "description": "Xiaomi Smart Home Device Reverse Engineering and Hacking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115213082,
+            "language": "C",
+            "last_commit": "2024-02-16T21:41:35Z",
+            "owner": "dgiese",
+            "repo": "dustcloud",
+            "stars": 2282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valetudo RE",
+          "description": "Experimental vacuum software, cloud free (Valetudo Fork)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188584220,
+            "language": "JavaScript",
+            "last_commit": "2025-08-19T14:17:10Z",
+            "owner": "rand256",
+            "repo": "valetudo",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bumper",
+          "description": "A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165171998,
+            "language": "Python",
+            "last_commit": "2024-08-05T10:12:30Z",
+            "owner": "bmartin5692",
+            "repo": "bumper",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roborock Oucher",
+          "description": "An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream \"Ouch!\" (or everything else) everytime it bumps into something",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219553658,
+            "language": "Go",
+            "last_commit": "2025-07-08T08:33:30Z",
+            "owner": "porech",
+            "repo": "roborock-oucher",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I can't belive it's not Valetudo",
+          "description": "Valetudo companion service (Map Rendering)",
           "children": [],
           "repo_info": {
             "archived": true,
-            "language": null,
-            "last_commit": "2021-02-25T06:32:26Z",
-            "owner": "xdspacelab",
-            "repo": "openvslam",
-            "stars": 2977
+            "id": 181076923,
+            "language": "JavaScript",
+            "last_commit": "2023-10-01T07:44:11Z",
+            "owner": "Hypfer",
+            "repo": "ICantBelieveItsNotValetudo",
+            "stars": 128
           }
         },
         {
           "node_type": "item",
-          "title": "BreezySLAM",
-          "description": "Simple, efficient, open-source package for Simultaneous Localization and Mapping.",
+          "title": "valetudo mapper",
+          "description": "Valetudo companion service (Map Rendering, ICantBelieveItsNotValetudo Fork)",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-05T18:31:28Z",
-            "owner": "simondlevy",
-            "repo": "BreezySLAM",
-            "stars": 812
+            "id": 217102731,
+            "language": "JavaScript",
+            "last_commit": "2023-09-15T16:44:41Z",
+            "owner": "rand256",
+            "repo": "valetudo-mapper",
+            "stars": 74
           }
         },
         {
           "node_type": "item",
-          "title": "ROS SLAM",
-          "description": "A ROS wrapper for OpenSlam's Gmapping.",
+          "title": "Congatudo",
+          "description": "Freecon.ga project to have Valetudo in the Home Assistant as addon intead of use standalone installation into the vacuum.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C++",
-            "last_commit": "2024-08-21T00:33:41Z",
-            "owner": "ros-perception",
-            "repo": "slam_gmapping",
-            "stars": 736
+            "id": 377457683,
+            "language": "Shell",
+            "last_commit": "2025-07-16T15:08:41Z",
+            "owner": "congatudo",
+            "repo": "congatudo-add-on",
+            "stars": 44
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cartographer",
+              "description": "A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64732358,
+                "language": "C++",
+                "last_commit": "2024-01-05T19:21:01Z",
+                "owner": "cartographer-project",
+                "repo": "cartographer",
+                "stars": 7948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenVSLAM",
+              "description": "A Versatile Visual SLAM Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 183462315,
+                "language": null,
+                "last_commit": "2021-02-25T06:32:26Z",
+                "owner": "xdspacelab",
+                "repo": "openvslam",
+                "stars": 2975
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BreezySLAM",
+              "description": "Simple, efficient, open-source package for Simultaneous Localization and Mapping.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23774852,
+                "language": "C",
+                "last_commit": "2026-02-05T18:31:28Z",
+                "owner": "simondlevy",
+                "repo": "BreezySLAM",
+                "stars": 812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ROS SLAM",
+              "description": "A ROS wrapper for OpenSlam's Gmapping.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8337535,
+                "language": "C++",
+                "last_commit": "2024-08-21T00:33:41Z",
+                "owner": "ros-perception",
+                "repo": "slam_gmapping",
+                "stars": 736
+              }
+            }
+          ],
+          "description": "SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedly scanning surrounding area and through that enable the robot to localize itself within that environment.",
+          "node_type": "group",
+          "title": "SLAM"
         }
       ],
-      "title": "SLAM"
+      "title": "Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:38:42.886Z",
+    "last_updated": "2026-08-19T12:55:54.419Z",
     "original_repository": "awesome-vacuum/awesome-vacuum",
+    "original_repository_id": 303284177,
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
     "enhanced_repository": "enhansome/enhansome-vacuum",
     "enhanced_repository_description": null,

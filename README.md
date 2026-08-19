@@ -68,7 +68,7 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Gobot](https://github.com/hybridgroup/gobot/) ⭐ 9,449 | 🐛 99 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).  `Apache-2.0` `golang`
+* [Gobot](https://github.com/hybridgroup/gobot/) ⭐ 9,450 | 🐛 99 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).  `Apache-2.0` `golang`
 * [ROS (Robot Operating System)](https://wiki.ros.org/) - Provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more. `BSD` `Various`
 
 ## SLAM
@@ -94,4 +94,4 @@ You know a software or hardware project that is not on this list yet? Contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
