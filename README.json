@@ -12,7 +12,7 @@
             "archived": false,
             "id": 140675080,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T19:06:31Z",
+            "last_commit": "2026-08-19T15:54:37Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
             "stars": 9547
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:54.419Z",
+    "last_updated": "2026-08-19T17:37:02.900Z",
     "original_repository": "awesome-vacuum/awesome-vacuum",
     "original_repository_id": 303284177,
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
