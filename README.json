@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T15:54:37Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9547
+            "stars": 9550
           }
         },
         {
@@ -137,7 +137,7 @@
                 "last_commit": "2024-01-05T19:21:01Z",
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7948
+                "stars": 7947
               }
             },
             {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:37:02.900Z",
+    "last_updated": "2026-08-20T17:41:21.921Z",
     "original_repository": "awesome-vacuum/awesome-vacuum",
     "original_repository_id": 303284177,
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
