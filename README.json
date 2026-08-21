@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T15:54:37Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9550
+            "stars": 9551
           }
         },
         {
@@ -152,7 +152,7 @@
                 "last_commit": "2021-02-25T06:32:26Z",
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2975
+                "stars": 2976
               }
             },
             {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:41:21.921Z",
+    "last_updated": "2026-08-21T17:40:09.652Z",
     "original_repository": "awesome-vacuum/awesome-vacuum",
     "original_repository_id": 303284177,
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
