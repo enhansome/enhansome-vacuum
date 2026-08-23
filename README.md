@@ -53,11 +53,11 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,556 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-22 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
+* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,572 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-23 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 * [Dustcloud](https://github.com/dgiese/dustcloud) ⭐ 2,282 | 🐛 84 | 🌐 C | 📅 2024-02-16 - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 * [Valetudo RE](https://github.com/rand256/valetudo) ⭐ 710 | 🐛 34 | 🌐 JavaScript | 📅 2025-08-19 - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
 * [Bumper](https://github.com/bmartin5692/bumper) ⭐ 398 | 🐛 58 | 🌐 Python | 📅 2024-08-05 - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
-* [Roborock Oucher](https://github.com/porech/roborock-oucher) ⭐ 215 | 🐛 2 | 🌐 Go | 📅 2025-07-08 - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
+* [Roborock Oucher](https://github.com/porech/roborock-oucher) ⭐ 215 | 🐛 3 | 🌐 Go | 📅 2025-07-08 - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
 * [I can't belive it's not Valetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) ⚠️ Archived - Valetudo companion service (Map Rendering) `Apache-2.0` `JavaScript`
 * [valetudo mapper](https://github.com/rand256/valetudo-mapper) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-15 - Valetudo companion service (Map Rendering, ICantBelieveItsNotValetudo Fork) `Apache-2.0` `JavaScript`
 * [Congatudo](https://github.com/freeconga/congatudo-add-on) ⭐ 44 | 🐛 2 | 🌐 Shell | 📅 2025-07-16 Freecon.ga project to have Valetudo in the Home Assistant as addon intead of use standalone installation into the vacuum. `GPL-3.0` `Shell`
@@ -94,4 +94,4 @@ You know a software or hardware project that is not on this list yet? Contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
