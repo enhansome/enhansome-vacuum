@@ -86,7 +86,7 @@ SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedl
 
 # Other Awesome Lists
 
-* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,883 | 🐛 13 | 📅 2023-11-20
+* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,884 | 🐛 13 | 📅 2023-11-20
 
 # Contributing
 
