@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T15:33:56Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9572
+            "stars": 9577
           }
         },
         {
@@ -127,6 +127,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Gobot",
+              "description": "Golang framework for robotics, drones, and the Internet of Things (IoT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12996196,
+                "language": "Go",
+                "last_commit": "2026-01-07T16:21:45Z",
+                "owner": "hybridgroup",
+                "repo": "gobot",
+                "stars": 9452
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "cartographer",
               "description": "A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
               "children": [],
@@ -195,7 +217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:32:00.843Z",
+    "last_updated": "2026-08-24T14:20:37.808Z",
     "original_repository": "awesome-vacuum/awesome-vacuum",
     "original_repository_id": 303284177,
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
