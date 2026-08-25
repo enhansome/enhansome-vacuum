@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T15:33:56Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9577
+            "stars": 9578
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-02-16T21:41:35Z",
             "owner": "dgiese",
             "repo": "dustcloud",
-            "stars": 2282
+            "stars": 2281
           }
         },
         {
@@ -159,7 +159,7 @@
                 "last_commit": "2024-01-05T19:21:01Z",
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7947
+                "stars": 7948
               }
             },
             {
@@ -217,7 +217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:35.636Z",
+    "last_updated": "2026-08-25T17:41:55.958Z",
     "original_repository": "awesome-vacuum/awesome-vacuum",
     "original_repository_id": 303284177,
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
