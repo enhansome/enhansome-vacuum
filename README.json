@@ -12,10 +12,10 @@
             "archived": false,
             "id": 140675080,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T15:33:56Z",
+            "last_commit": "2026-08-25T18:25:57Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9578
+            "stars": 9584
           }
         },
         {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-01-07T16:21:45Z",
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9452
+                "stars": 9454
               }
             }
           ],
@@ -159,7 +159,7 @@
                 "last_commit": "2024-01-05T19:21:01Z",
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7948
+                "stars": 7949
               }
             },
             {
@@ -217,7 +217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:41:55.958Z",
+    "last_updated": "2026-08-26T19:17:18.747Z",
     "original_repository": "awesome-vacuum/awesome-vacuum",
     "original_repository_id": 303284177,
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
