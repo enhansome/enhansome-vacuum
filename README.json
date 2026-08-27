@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T18:25:57Z",
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9584
+            "stars": 9586
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-02-16T21:41:35Z",
             "owner": "dgiese",
             "repo": "dustcloud",
-            "stars": 2281
+            "stars": 2280
           }
         },
         {
@@ -204,7 +204,7 @@
                 "last_commit": "2024-08-21T00:33:41Z",
                 "owner": "ros-perception",
                 "repo": "slam_gmapping",
-                "stars": 736
+                "stars": 735
               }
             }
           ],
@@ -217,9 +217,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:17:18.747Z",
-    "original_repository": "awesome-vacuum/awesome-vacuum",
-    "original_repository_id": 303284177,
+    "last_updated": "2026-08-27T12:09:22.596Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 303284177,
+      "language": null,
+      "last_commit": "2021-12-27T18:21:03Z",
+      "owner": "awesome-vacuum",
+      "repo": "awesome-vacuum",
+      "stars": 580
+    },
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
     "enhanced_repository": "enhansome/enhansome-vacuum",
     "enhanced_repository_description": null,
