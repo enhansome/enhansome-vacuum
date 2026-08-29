@@ -53,7 +53,7 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,592 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
+* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,593 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 * [Dustcloud](https://github.com/dgiese/dustcloud) ⭐ 2,280 | 🐛 84 | 🌐 C | 📅 2024-02-16 - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 * [Valetudo RE](https://github.com/rand256/valetudo) ⭐ 710 | 🐛 34 | 🌐 JavaScript | 📅 2025-08-19 - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
 * [Bumper](https://github.com/bmartin5692/bumper) ⭐ 398 | 🐛 58 | 🌐 Python | 📅 2024-08-05 - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`

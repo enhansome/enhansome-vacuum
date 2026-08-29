@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud replacement for vacuum robots enabling local-only operation",
+            "homepage": "https://valetudo.cloud",
             "id": 140675080,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T18:25:57Z",
+            "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9592
+            "stars": 9593,
+            "topics": [
+              "cloud-free",
+              "dreame",
+              "roborock",
+              "robot-vacuum",
+              "smarthome",
+              "valetudo",
+              "xiaomi"
+            ]
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xiaomi Smart Home Device Reverse Engineering and Hacking",
+            "homepage": null,
             "id": 115213082,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-16T21:41:35Z",
+            "open_issues": 84,
             "owner": "dgiese",
             "repo": "dustcloud",
-            "stars": 2280
+            "stars": 2280,
+            "topics": [
+              "hacking",
+              "iot",
+              "root",
+              "vacuum",
+              "vacuum-cleaner",
+              "xiaomi",
+              "xiaomi-smart"
+            ]
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Valetudo RE - experimental vacuum software, cloud free",
+            "homepage": null,
             "id": 188584220,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-19T14:17:10Z",
+            "open_issues": 34,
             "owner": "rand256",
             "repo": "valetudo",
-            "stars": 710
+            "stars": 710,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
@@ -58,12 +89,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robots.",
+            "homepage": null,
             "id": 165171998,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-05T10:12:30Z",
+            "open_issues": 58,
             "owner": "bmartin5692",
             "repo": "bumper",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "deebot",
+              "ecovacs",
+              "ozmo",
+              "self-hosted",
+              "vacuum"
+            ]
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
@@ -74,12 +116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream \"Ouch!\" (or everything else) everytime it bumps into something.",
+            "homepage": null,
             "id": 219553658,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-07-08T08:33:30Z",
+            "open_issues": 3,
             "owner": "porech",
             "repo": "roborock-oucher",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
@@ -90,12 +137,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Valetudo companion service which renders maps to pngs",
+            "homepage": null,
             "id": 181076923,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-01T07:44:11Z",
+            "open_issues": 4,
             "owner": "Hypfer",
             "repo": "ICantBelieveItsNotValetudo",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "valetudo"
+            ]
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
@@ -106,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Valetudo companion service",
+            "homepage": null,
             "id": 217102731,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-15T16:44:41Z",
+            "open_issues": 0,
             "owner": "rand256",
             "repo": "valetudo-mapper",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
@@ -122,12 +181,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A home assistant addon to provide a Valetudo server for Cecotec Conga vacuums",
+            "homepage": null,
             "id": 377457683,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-07-16T15:08:41Z",
+            "open_issues": 2,
             "owner": "congatudo",
             "repo": "congatudo-add-on",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "congatudo",
+              "freeconga",
+              "hacktoberfest",
+              "hacktoberfest2022",
+              "home-assistant",
+              "home-automation",
+              "valetudo"
+            ]
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
@@ -140,12 +212,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Golang framework for robotics, drones, and the Internet of Things (IoT)",
+                "homepage": "https://gobot.io",
                 "id": 12996196,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-07T16:21:45Z",
+                "open_issues": 100,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9455
+                "stars": 9455,
+                "topics": [
+                  "arduino",
+                  "beaglebone",
+                  "beaglebone-black",
+                  "bluetooth",
+                  "bluetooth-le",
+                  "drone",
+                  "go",
+                  "gpio",
+                  "hardware",
+                  "i2c",
+                  "intel-edison",
+                  "intel-joule",
+                  "internet-of-things",
+                  "iot",
+                  "mqtt",
+                  "raspberry-pi",
+                  "robot",
+                  "robotics",
+                  "sphero",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
             }
@@ -163,12 +261,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.",
+                "homepage": null,
                 "id": 64732358,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-05T19:21:01Z",
+                "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7951
+                "stars": 7951,
+                "topics": [
+                  "localization",
+                  "mapping",
+                  "robotics",
+                  "self-driving",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
             },
@@ -179,12 +288,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OpenVSLAM: A Versatile Visual SLAM Framework",
+                "homepage": "https://openvslam.readthedocs.io/",
                 "id": 183462315,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-02-25T06:32:26Z",
+                "open_issues": 207,
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2976
+                "stars": 2976,
+                "topics": [
+                  "computer-vision",
+                  "fisheye",
+                  "panorama",
+                  "robotics",
+                  "slam",
+                  "visual-odometry",
+                  "visual-slam",
+                  "vr",
+                  "vslam"
+                ]
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
             },
@@ -195,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, efficient, open-source package for Simultaneous Localization and Mapping",
+                "homepage": null,
                 "id": 23774852,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-02-05T18:31:28Z",
+                "open_issues": 57,
                 "owner": "simondlevy",
                 "repo": "BreezySLAM",
-                "stars": 812
+                "stars": 812,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
             },
@@ -211,12 +340,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "http://www.ros.org/wiki/slam_gmapping",
+                "homepage": null,
                 "id": 8337535,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-08-21T00:33:41Z",
+                "open_issues": 44,
                 "owner": "ros-perception",
                 "repo": "slam_gmapping",
-                "stars": 735
+                "stars": 735,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
             }
@@ -230,15 +364,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:57:16.475Z",
+    "last_updated": "2026-08-29T04:41:19.245Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
+      "homepage": null,
       "id": 303284177,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-12-27T18:21:03Z",
+      "open_issues": 1,
       "owner": "awesome-vacuum",
       "repo": "awesome-vacuum",
-      "stars": 580
+      "stars": 580,
+      "topics": [
+        "awesome-list",
+        "awesome-vacuum",
+        "hacktoberfest",
+        "lists",
+        "robot",
+        "robot-vacuum",
+        "robot-vacuums",
+        "robotics",
+        "robots",
+        "vacuum",
+        "vacuum-cleaner"
+      ]
     },
     "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
     "enhanced_repository": "enhansome/enhansome-vacuum",
