@@ -53,7 +53,7 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,601 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
+* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,600 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-25 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 * [Dustcloud](https://github.com/dgiese/dustcloud) ⭐ 2,280 | 🐛 84 | 🌐 C | 📅 2024-02-16 - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 * [Valetudo RE](https://github.com/rand256/valetudo) ⭐ 711 | 🐛 34 | 🌐 JavaScript | 📅 2025-08-19 - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
 * [Bumper](https://github.com/bmartin5692/bumper) ⭐ 398 | 🐛 58 | 🌐 Python | 📅 2024-08-05 - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
@@ -79,14 +79,14 @@ SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedl
 
 * [cartographer](https://github.com/cartographer-project/cartographer) ⭐ 7,953 | 🐛 241 | 🌐 C++ | 📅 2024-01-05 - A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. `Apache-2.0` `C++`
 * [OpenVSLAM](https://github.com/xdspacelab/openvslam) ⚠️ Archived - A Versatile Visual SLAM Framework. `2-Clause BSD` `C++`
-* [BreezySLAM](https://github.com/simondlevy/BreezySLAM) ⭐ 812 | 🐛 57 | 🌐 C | 📅 2026-02-05 - Simple, efficient, open-source package for Simultaneous Localization and Mapping. `LGPLv3` `Various`
+* [BreezySLAM](https://github.com/simondlevy/BreezySLAM) ⭐ 813 | 🐛 57 | 🌐 C | 📅 2026-02-05 - Simple, efficient, open-source package for Simultaneous Localization and Mapping. `LGPLv3` `Various`
 * [ROS SLAM](https://github.com/ros-perception/slam_gmapping) ⭐ 735 | 🐛 44 | 🌐 C++ | 📅 2024-08-21 - A ROS wrapper for OpenSlam's Gmapping. `BSD` `C++`
 
 ***
 
 # Other Awesome Lists
 
-* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,888 | 🐛 13 | 📅 2023-11-20
+* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,890 | 🐛 13 | 📅 2023-11-20
 
 # Contributing
 
@@ -94,4 +94,4 @@ You know a software or hardware project that is not on this list yet? Contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
