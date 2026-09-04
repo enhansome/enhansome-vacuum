@@ -26,7 +26,7 @@ A curated list of free and open source software and hardware projects which can 
 **[`^        back to top        ^`](#)**
 
 A IMU helps to make localization much more stable by providing accelerometer, gyroscope and some even magnetometer data.
-[cartographer](https://github.com/cartographer-project/cartographer) ⭐ 7,953 | 🐛 240 | 🌐 C++ | 📅 2024-01-05 can easily be setup with IMU to improve localization.
+[cartographer](https://github.com/cartographer-project/cartographer) ⭐ 7,956 | 🐛 240 | 🌐 C++ | 📅 2024-01-05 can easily be setup with IMU to improve localization.
 
 * [MPU6050](https://playground.arduino.cc/Main/MPU-6050/) - IMU sensor combining a MEMS accelerometer and a MEMS gyro on a single chip.
 
@@ -53,7 +53,7 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,605 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-03 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
+* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,611 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-04 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 * [Dustcloud](https://github.com/dgiese/dustcloud) ⭐ 2,279 | 🐛 84 | 🌐 C | 📅 2024-02-16 - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 * [Valetudo RE](https://github.com/rand256/valetudo) ⭐ 711 | 🐛 34 | 🌐 JavaScript | 📅 2025-08-19 - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
 * [Bumper](https://github.com/bmartin5692/bumper) ⭐ 398 | 🐛 58 | 🌐 Python | 📅 2024-08-05 - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
@@ -68,7 +68,7 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Gobot](https://github.com/hybridgroup/gobot/) ⭐ 9,460 | 🐛 100 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).  `Apache-2.0` `golang`
+* [Gobot](https://github.com/hybridgroup/gobot/) ⭐ 9,463 | 🐛 100 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).  `Apache-2.0` `golang`
 * [ROS (Robot Operating System)](https://wiki.ros.org/) - Provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more. `BSD` `Various`
 
 ## SLAM
@@ -77,7 +77,7 @@ A list of full blown projects to create a robot vacuum.
 
 SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedly scanning surrounding area and through that enable the robot to localize itself within that environment.
 
-* [cartographer](https://github.com/cartographer-project/cartographer) ⭐ 7,953 | 🐛 240 | 🌐 C++ | 📅 2024-01-05 - A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. `Apache-2.0` `C++`
+* [cartographer](https://github.com/cartographer-project/cartographer) ⭐ 7,956 | 🐛 240 | 🌐 C++ | 📅 2024-01-05 - A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. `Apache-2.0` `C++`
 * [OpenVSLAM](https://github.com/xdspacelab/openvslam) ⚠️ Archived - A Versatile Visual SLAM Framework. `2-Clause BSD` `C++`
 * [BreezySLAM](https://github.com/simondlevy/BreezySLAM) ⭐ 813 | 🐛 57 | 🌐 C | 📅 2026-02-05 - Simple, efficient, open-source package for Simultaneous Localization and Mapping. `LGPLv3` `Various`
 * [ROS SLAM](https://github.com/ros-perception/slam_gmapping) ⭐ 735 | 🐛 44 | 🌐 C++ | 📅 2024-08-21 - A ROS wrapper for OpenSlam's Gmapping. `BSD` `C++`
@@ -94,4 +94,4 @@ You know a software or hardware project that is not on this list yet? Contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
