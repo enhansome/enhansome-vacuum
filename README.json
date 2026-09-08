@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9622,
+            "stars": 9627,
             "topics": [
               "cloud-free",
               "dreame",
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:32:38.861Z",
+    "last_updated": "2026-09-08T19:53:08.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
