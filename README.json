@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9663,
+            "stars": 9669,
             "topics": [
               "cloud-free",
               "dreame",
@@ -48,7 +48,7 @@
             "open_issues": 84,
             "owner": "dgiese",
             "repo": "dustcloud",
-            "stars": 2279,
+            "stars": 2281,
             "topics": [
               "hacking",
               "iot",
@@ -77,7 +77,7 @@
             "open_issues": 34,
             "owner": "rand256",
             "repo": "valetudo",
-            "stars": 712,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
@@ -221,7 +221,7 @@
                 "open_issues": 100,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9470,
+                "stars": 9471,
                 "topics": [
                   "arduino",
                   "beaglebone",
@@ -270,7 +270,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 7966,
+                "stars": 7969,
                 "topics": [
                   "localization",
                   "mapping",
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:55:24.997Z",
+    "last_updated": "2026-09-15T20:12:50.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
