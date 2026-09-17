@@ -53,7 +53,7 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,674 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
+* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,677 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 * [Dustcloud](https://github.com/dgiese/dustcloud) ⭐ 2,281 | 🐛 84 | 🌐 C | 📅 2024-02-16 - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 * [Valetudo RE](https://github.com/rand256/valetudo) ⭐ 712 | 🐛 34 | 🌐 JavaScript | 📅 2025-08-19 - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
 * [Bumper](https://github.com/bmartin5692/bumper) ⭐ 398 | 🐛 58 | 🌐 Python | 📅 2024-08-05 - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
@@ -86,7 +86,7 @@ SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedl
 
 # Other Awesome Lists
 
-* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,891 | 🐛 13 | 📅 2023-11-20
+* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,890 | 🐛 15 | 📅 2023-11-20
 
 # Contributing
 
@@ -94,4 +94,4 @@ You know a software or hardware project that is not on this list yet? Contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
