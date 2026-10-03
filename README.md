@@ -53,8 +53,8 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,743 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-25 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
-* [Dustcloud](https://github.com/dgiese/dustcloud) ⭐ 2,280 | 🐛 84 | 🌐 C | 📅 2024-02-16 - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
+* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,744 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-25 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
+* [Dustcloud](https://github.com/dgiese/dustcloud) ⭐ 2,279 | 🐛 84 | 🌐 C | 📅 2024-02-16 - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 * [Valetudo RE](https://github.com/rand256/valetudo) ⭐ 713 | 🐛 35 | 🌐 JavaScript | 📅 2025-08-19 - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
 * [Bumper](https://github.com/bmartin5692/bumper) ⭐ 400 | 🐛 58 | 🌐 Python | 📅 2024-08-05 - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
 * [Roborock Oucher](https://github.com/porech/roborock-oucher) ⭐ 215 | 🐛 3 | 🌐 Go | 📅 2025-07-08 - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
