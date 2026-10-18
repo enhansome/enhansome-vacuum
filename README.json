@@ -15,11 +15,11 @@
             "id": 140675080,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T18:58:17Z",
+            "last_commit": "2026-10-18T17:15:02Z",
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9814,
+            "stars": 9821,
             "topics": [
               "cloud-free",
               "dreame",
@@ -95,7 +95,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2024-08-05T10:12:30Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "bmartin5692",
             "repo": "bumper",
             "stars": 399,
@@ -221,7 +221,7 @@
                 "open_issues": 100,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9476,
+                "stars": 9477,
                 "topics": [
                   "arduino",
                   "beaglebone",
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:18:53.563Z",
+    "last_updated": "2026-10-18T19:24:09.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
