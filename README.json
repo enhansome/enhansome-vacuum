@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9884,
+            "stars": 9897,
             "topics": [
               "cloud-free",
               "dreame",
@@ -190,7 +190,7 @@
             "open_issues": 2,
             "owner": "congatudo",
             "repo": "congatudo-add-on",
-            "stars": 44,
+            "stars": 43,
             "topics": [
               "congatudo",
               "freeconga",
@@ -270,7 +270,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8000,
+                "stars": 8001,
                 "topics": [
                   "localization",
                   "mapping",
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:08:33.274Z",
+    "last_updated": "2026-11-02T23:51:34.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
