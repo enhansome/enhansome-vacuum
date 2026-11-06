@@ -15,11 +15,11 @@
             "id": 140675080,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T13:24:50Z",
+            "last_commit": "2026-11-06T13:44:30Z",
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9923,
+            "stars": 9929,
             "topics": [
               "cloud-free",
               "dreame",
@@ -48,7 +48,7 @@
             "open_issues": 85,
             "owner": "dgiese",
             "repo": "dustcloud",
-            "stars": 2284,
+            "stars": 2283,
             "topics": [
               "hacking",
               "iot",
@@ -125,7 +125,7 @@
             "open_issues": 3,
             "owner": "porech",
             "repo": "roborock-oucher",
-            "stars": 216,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
@@ -267,7 +267,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2024-01-05T19:21:01Z",
-                "open_issues": 241,
+                "open_issues": 240,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
                 "stars": 8002,
@@ -297,7 +297,7 @@
                 "open_issues": 207,
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2978,
+                "stars": 2977,
                 "topics": [
                   "computer-vision",
                   "fisheye",
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:39:24.447Z",
+    "last_updated": "2026-11-06T22:03:22.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
