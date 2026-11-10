@@ -15,11 +15,11 @@
             "id": 140675080,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T13:44:30Z",
+            "last_commit": "2026-11-09T18:24:26Z",
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9941,
+            "stars": 9955,
             "topics": [
               "cloud-free",
               "dreame",
@@ -48,7 +48,7 @@
             "open_issues": 85,
             "owner": "dgiese",
             "repo": "dustcloud",
-            "stars": 2283,
+            "stars": 2282,
             "topics": [
               "hacking",
               "iot",
@@ -77,7 +77,7 @@
             "open_issues": 37,
             "owner": "rand256",
             "repo": "valetudo",
-            "stars": 712,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
@@ -221,7 +221,7 @@
                 "open_issues": 101,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9493,
+                "stars": 9494,
                 "topics": [
                   "arduino",
                   "beaglebone",
@@ -270,7 +270,7 @@
                 "open_issues": 240,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8005,
+                "stars": 8007,
                 "topics": [
                   "localization",
                   "mapping",
@@ -349,7 +349,7 @@
                 "open_issues": 44,
                 "owner": "ros-perception",
                 "repo": "slam_gmapping",
-                "stars": 736,
+                "stars": 737,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:05:33.235Z",
+    "last_updated": "2026-11-10T00:39:33.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
