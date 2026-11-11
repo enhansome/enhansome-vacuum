@@ -53,11 +53,11 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,962 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
+* [Valetudo](https://github.com/Hypfer/Valetudo) ⭐ 9,970 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09 - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 * [Dustcloud](https://github.com/dgiese/dustcloud) ⭐ 2,282 | 🐛 85 | 🌐 C | 📅 2024-02-16 - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 * [Valetudo RE](https://github.com/rand256/valetudo) ⭐ 712 | 🐛 37 | 🌐 JavaScript | 📅 2025-08-19 - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
-* [Bumper](https://github.com/bmartin5692/bumper) ⭐ 401 | 🐛 59 | 🌐 Python | 📅 2024-08-05 - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
-* [Roborock Oucher](https://github.com/porech/roborock-oucher) ⭐ 215 | 🐛 3 | 🌐 Go | 📅 2025-07-08 - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
+* [Bumper](https://github.com/bmartin5692/bumper) ⭐ 401 | 🐛 60 | 🌐 Python | 📅 2024-08-05 - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
+* [Roborock Oucher](https://github.com/porech/roborock-oucher) ⭐ 214 | 🐛 3 | 🌐 Go | 📅 2025-07-08 - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
 * [I can't belive it's not Valetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) ⚠️ Archived - Valetudo companion service (Map Rendering) `Apache-2.0` `JavaScript`
 * [valetudo mapper](https://github.com/rand256/valetudo-mapper) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-15 - Valetudo companion service (Map Rendering, ICantBelieveItsNotValetudo Fork) `Apache-2.0` `JavaScript`
 * [Congatudo](https://github.com/freeconga/congatudo-add-on) ⭐ 43 | 🐛 2 | 🌐 Shell | 📅 2025-07-16 Freecon.ga project to have Valetudo in the Home Assistant as addon intead of use standalone installation into the vacuum. `GPL-3.0` `Shell`
@@ -68,7 +68,7 @@ A list of full blown projects to create a robot vacuum.
 
 **[`^        back to top        ^`](#)**
 
-* [Gobot](https://github.com/hybridgroup/gobot/) ⭐ 9,497 | 🐛 101 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).  `Apache-2.0` `golang`
+* [Gobot](https://github.com/hybridgroup/gobot/) ⭐ 9,499 | 🐛 101 | 🌐 Go | 📅 2026-01-07 - Golang framework for robotics, drones, and the Internet of Things (IoT).  `Apache-2.0` `golang`
 * [ROS (Robot Operating System)](https://wiki.ros.org/) - Provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more. `BSD` `Various`
 
 ## SLAM
@@ -79,14 +79,14 @@ SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedl
 
 * [cartographer](https://github.com/cartographer-project/cartographer) ⭐ 8,008 | 🐛 240 | 🌐 C++ | 📅 2024-01-05 - A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. `Apache-2.0` `C++`
 * [OpenVSLAM](https://github.com/xdspacelab/openvslam) ⚠️ Archived - A Versatile Visual SLAM Framework. `2-Clause BSD` `C++`
-* [BreezySLAM](https://github.com/simondlevy/BreezySLAM) ⭐ 816 | 🐛 57 | 🌐 C | 📅 2026-02-05 - Simple, efficient, open-source package for Simultaneous Localization and Mapping. `LGPLv3` `Various`
+* [BreezySLAM](https://github.com/simondlevy/BreezySLAM) ⭐ 817 | 🐛 57 | 🌐 C | 📅 2026-02-05 - Simple, efficient, open-source package for Simultaneous Localization and Mapping. `LGPLv3` `Various`
 * [ROS SLAM](https://github.com/ros-perception/slam_gmapping) ⭐ 737 | 🐛 44 | 🌐 C++ | 📅 2024-08-21 - A ROS wrapper for OpenSlam's Gmapping. `BSD` `C++`
 
 ***
 
 # Other Awesome Lists
 
-* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,918 | 🐛 13 | 📅 2023-11-20
+* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) ⭐ 3,920 | 🐛 13 | 📅 2023-11-20
 
 # Contributing
 
@@ -94,4 +94,4 @@ You know a software or hardware project that is not on this list yet? Contributi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

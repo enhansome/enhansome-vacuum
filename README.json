@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9962,
+            "stars": 9970,
             "topics": [
               "cloud-free",
               "dreame",
@@ -95,7 +95,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2024-08-05T10:12:30Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "bmartin5692",
             "repo": "bumper",
             "stars": 401,
@@ -125,7 +125,7 @@
             "open_issues": 3,
             "owner": "porech",
             "repo": "roborock-oucher",
-            "stars": 215,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
@@ -221,7 +221,7 @@
                 "open_issues": 101,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9497,
+                "stars": 9499,
                 "topics": [
                   "arduino",
                   "beaglebone",
@@ -297,7 +297,7 @@
                 "open_issues": 207,
                 "owner": "xdspacelab",
                 "repo": "openvslam",
-                "stars": 2977,
+                "stars": 2976,
                 "topics": [
                   "computer-vision",
                   "fisheye",
@@ -328,7 +328,7 @@
                 "open_issues": 57,
                 "owner": "simondlevy",
                 "repo": "BreezySLAM",
-                "stars": 816,
+                "stars": 817,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:19:43.724Z",
+    "last_updated": "2026-11-11T23:26:57.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
