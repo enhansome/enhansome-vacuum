@@ -15,11 +15,11 @@
             "id": 140675080,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T18:24:26Z",
+            "last_commit": "2026-11-12T10:26:59Z",
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9970,
+            "stars": 9973,
             "topics": [
               "cloud-free",
               "dreame",
@@ -98,7 +98,7 @@
             "open_issues": 60,
             "owner": "bmartin5692",
             "repo": "bumper",
-            "stars": 401,
+            "stars": 402,
             "topics": [
               "deebot",
               "ecovacs",
@@ -267,10 +267,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2024-01-05T19:21:01Z",
-                "open_issues": 240,
+                "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8008,
+                "stars": 8009,
                 "topics": [
                   "localization",
                   "mapping",
@@ -349,7 +349,7 @@
                 "open_issues": 44,
                 "owner": "ros-perception",
                 "repo": "slam_gmapping",
-                "stars": 737,
+                "stars": 736,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:26:57.554Z",
+    "last_updated": "2026-11-12T22:41:27.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
