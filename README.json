@@ -15,11 +15,11 @@
             "id": 140675080,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T10:26:59Z",
+            "last_commit": "2026-11-15T09:16:21Z",
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9981,
+            "stars": 9985,
             "topics": [
               "cloud-free",
               "dreame",
@@ -48,7 +48,7 @@
             "open_issues": 85,
             "owner": "dgiese",
             "repo": "dustcloud",
-            "stars": 2282,
+            "stars": 2283,
             "topics": [
               "hacking",
               "iot",
@@ -95,7 +95,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2024-08-05T10:12:30Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "bmartin5692",
             "repo": "bumper",
             "stars": 402,
@@ -221,7 +221,7 @@
                 "open_issues": 101,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9499,
+                "stars": 9498,
                 "topics": [
                   "arduino",
                   "beaglebone",
@@ -328,7 +328,7 @@
                 "open_issues": 57,
                 "owner": "simondlevy",
                 "repo": "BreezySLAM",
-                "stars": 817,
+                "stars": 818,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:57:16.475Z"
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:24:39.324Z",
+    "last_updated": "2026-11-15T21:43:24.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
@@ -376,7 +376,7 @@
       "open_issues": 1,
       "owner": "awesome-vacuum",
       "repo": "awesome-vacuum",
-      "stars": 592,
+      "stars": 593,
       "topics": [
         "awesome-list",
         "awesome-vacuum",
