@@ -4,6 +4,145 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kaiaai LDS",
+              "description": "Arduino library with a single API for 20+ low-cost 2D LiDARs, including ones salvaged from robot vacuums (Xiaomi LDS02RR, Neato XV11, Camsense X1, YDLIDAR, ...).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Arduino LiDAR library supporting YDLIDAR X2/X3/X4, RPLIDAR A1, Xiaomi LDS02RR, Neato XV11, LD14P, CAMSENSE X1, Delta-2A/2B/2G",
+                "homepage": null,
+                "id": 743314949,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-25T01:38:39Z",
+                "open_issues": 1,
+                "owner": "kaiaai",
+                "repo": "LDS",
+                "stars": 235,
+                "topics": [
+                  "3irobotix",
+                  "arduino-library",
+                  "camsense",
+                  "camsense-x1",
+                  "delta-2a",
+                  "ld19-lidar",
+                  "ldrobot",
+                  "lds01rr",
+                  "lds02rr",
+                  "lidar",
+                  "neato",
+                  "neato-xv",
+                  "rplidar",
+                  "rplidar-a1",
+                  "rplidar-c1",
+                  "slamtec",
+                  "ydlidar",
+                  "ydlidar-x2",
+                  "ydlidar-x4"
+                ]
+              },
+              "first_seen": "2026-11-17T23:49:34.450Z"
+            },
+            {
+              "node_type": "item",
+              "title": "camsense-X1",
+              "description": "Unofficial reverse engineering of a Chinese LiDAR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "unofficial reverse engineering of a Chinese LiDAR. Discussed this on my discord: https://discord.gg/zRGJcqa",
+                "homepage": null,
+                "id": 255609394,
+                "language": null,
+                "license": "GPL-3.0",
+                "last_commit": "2020-10-03T22:59:44Z",
+                "open_issues": 1,
+                "owner": "Vidicon",
+                "repo": "camsense-X1",
+                "stars": 74,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T23:49:34.450Z"
+            }
+          ],
+          "description": "A LIDAR (Light Detection and Ranging) can create an accurate representation of its surroundings by utilizing a laser and a light sensor to measure TOF (Time of Flight). Devices are available as 2D and 3D variants, although the 3D variants are still pretty expensive and do not add much value to the \"robot vacuum\" use case.",
+          "node_type": "group",
+          "title": "LIDAR"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OOMWOO",
+              "description": "Open source robot vacuum you build yourself, using a Raspberry Pi, 3D printing, ROS 2 and Home Assistant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source vacuum robot cleaner",
+                "homepage": "https://oomwoo.com",
+                "id": 1264722786,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-16T06:49:47Z",
+                "open_issues": 5,
+                "owner": "makerspet",
+                "repo": "oomwoo",
+                "stars": 13130,
+                "topics": [
+                  "3d-printing",
+                  "arduino",
+                  "diy-electronics",
+                  "diy-project",
+                  "esp32",
+                  "esp32-arduino",
+                  "home-assistant",
+                  "lidar",
+                  "lidar-slam",
+                  "raspberry-pi",
+                  "ros2",
+                  "slam",
+                  "vacuum-cleaner",
+                  "vacuum-robot"
+                ]
+              },
+              "first_seen": "2026-11-17T23:49:34.450Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OOMWOO PCB",
+              "description": "I/O board (STM32 with motor drivers and sensor inputs) for the OOMWOO robot vacuum.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "I/O board for open-source vacuum cleaner robot",
+                "homepage": null,
+                "id": 1286462587,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-17T20:12:30Z",
+                "open_issues": 3,
+                "owner": "makerspet",
+                "repo": "oomwoo-pcb",
+                "stars": 57,
+                "topics": []
+              },
+              "first_seen": "2026-11-17T23:49:34.450Z"
+            }
+          ],
+          "description": "A list of full blown projects to create a robot vacuum.",
+          "node_type": "group",
+          "title": "Projects"
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Valetudo",
           "description": "Cloud-free control webinterface for vacuum robots.",
@@ -19,7 +158,7 @@
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 9992,
+            "stars": 9998,
             "topics": [
               "cloud-free",
               "dreame",
@@ -31,6 +170,78 @@
             ]
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
+        },
+        {
+          "node_type": "item",
+          "title": "python-miio",
+          "description": "Python library and console tool for controlling Xiaomi smart appliances, including vacuums.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python library & console tool for controlling Xiaomi smart appliances",
+            "homepage": "https://python-miio.readthedocs.io",
+            "id": 83989500,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-25T16:54:41Z",
+            "open_issues": 321,
+            "owner": "rytilahti",
+            "repo": "python-miio",
+            "stars": 4342,
+            "topics": [
+              "home-assistant",
+              "home-automation",
+              "miio",
+              "miot",
+              "miot-spec",
+              "python",
+              "smart-home",
+              "xiaomi"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dreame Vacuum",
+          "description": "Home Assistant integration for Dreame robot vacuums with map support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Home Assistant integration for Dreame robot vacuums with map support",
+            "homepage": "https://dreame-vacuum.tasshack.com",
+            "id": 544426802,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-03T14:59:30Z",
+            "open_issues": 15,
+            "owner": "Tasshack",
+            "repo": "dreame-vacuum",
+            "stars": 2299,
+            "topics": [
+              "dreame",
+              "dreamehome",
+              "dreametech",
+              "hacs",
+              "home-assistant",
+              "home-assistant-custom-component",
+              "homeassistant",
+              "integration",
+              "lovelace",
+              "lovelace-card",
+              "map",
+              "mi-home",
+              "miio",
+              "mova",
+              "movahome",
+              "robot",
+              "vacuum",
+              "vacuum-map",
+              "xiaomi",
+              "xiaomi-home"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
         },
         {
           "node_type": "item",
@@ -60,6 +271,122 @@
             ]
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Xiaomi Vacuum Map Card",
+          "description": "Home Assistant Lovelace card to control map-based vacuums (Xiaomi, Valetudo, Neato, Roomba, Ecovacs, ...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This card provides a user-friendly way to fully control map-based vacuums in Home Assistant. Supported brands include Xiaomi (Roborock/Viomi/Dreame/Roidmi/Valetudo/Valetudo RE), Neato, Wyze, Roomba, Ecovacs (and probably more).",
+            "homepage": null,
+            "id": 193372044,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-06-24T15:59:35Z",
+            "open_issues": 73,
+            "owner": "PiotrMachowski",
+            "repo": "lovelace-xiaomi-vacuum-map-card",
+            "stars": 1955,
+            "topics": [
+              "deebot",
+              "ecovacs",
+              "home-assistant",
+              "home-automation",
+              "homeassistant",
+              "lovelace-card",
+              "myneato",
+              "neato",
+              "roborock",
+              "roomba",
+              "roomba980",
+              "vacuum",
+              "valetudo",
+              "valetudo-re",
+              "wyze",
+              "xiaomi",
+              "xiaomi-vacuum"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Xiaomi Cloud Map Extractor",
+          "description": "Home Assistant integration showing a live map for Xiaomi, Roborock, Viomi, Roidmi and Dreame vacuums without rooting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This custom integration provides a way to present a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.",
+            "homepage": null,
+            "id": 299753146,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-02-20T03:21:16Z",
+            "open_issues": 168,
+            "owner": "PiotrMachowski",
+            "repo": "Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
+            "stars": 1438,
+            "topics": [
+              "cloud",
+              "custom-component",
+              "dreame",
+              "hacs",
+              "home-assistant",
+              "map",
+              "roborock",
+              "robot",
+              "roidmi",
+              "vacuum",
+              "vacuum-map",
+              "viomi",
+              "xiaomi",
+              "xiaomi-smart-home",
+              "xiaomi-vacuum"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dorita980",
+          "description": "Unofficial SDK to control iRobot Roomba and Braava robots over the local network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Unofficial iRobot Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc) node.js library (SDK) to control your robot",
+            "homepage": null,
+            "id": 60990331,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-02-27T19:23:28Z",
+            "open_issues": 14,
+            "owner": "koalazak",
+            "repo": "dorita980",
+            "stars": 1211,
+            "topics": [
+              "675",
+              "690",
+              "960",
+              "980",
+              "api",
+              "cloud",
+              "cloud-api",
+              "dorita980",
+              "e5",
+              "firmware",
+              "i7",
+              "iot",
+              "irobot",
+              "mqtt",
+              "robot",
+              "roomba",
+              "roomba980",
+              "sdk"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
         },
         {
           "node_type": "item",
@@ -111,6 +438,68 @@
         },
         {
           "node_type": "item",
+          "title": "CleanIt",
+          "description": "Open-source autonomy software using gRPC for the Roomba series robot vacuum cleaners. Under development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source Autonomy Software in Rust-lang using gRPC for the Roomba series robot vacuum cleaners. Under development.",
+            "homepage": null,
+            "id": 328184231,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2025-11-19T22:52:17Z",
+            "open_issues": 4,
+            "owner": "Sollimann",
+            "repo": "CleanIt",
+            "stars": 327,
+            "topics": [
+              "autonomous-robots",
+              "autonomy",
+              "grpc",
+              "irobot",
+              "missionplanner",
+              "motion-control",
+              "motion-planning",
+              "obstacle-avoidance",
+              "pathplanning",
+              "robot-localization",
+              "robotics",
+              "roomba",
+              "ros",
+              "rust",
+              "rust-lang",
+              "sensor-fusion",
+              "serial",
+              "slam",
+              "vacuum-robot"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
+        },
+        {
+          "node_type": "item",
+          "title": "python-roborock",
+          "description": "Python library and console tool for controlling Roborock vacuums.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python library & console tool for controlling Roborock vacuum",
+            "homepage": "https://python-roborock.github.io/python-roborock/",
+            "id": 602302890,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-16T05:03:05Z",
+            "open_issues": 75,
+            "owner": "Python-roborock",
+            "repo": "python-roborock",
+            "stars": 250,
+            "topics": []
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
+        },
+        {
+          "node_type": "item",
           "title": "Roborock Oucher",
           "description": "An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream \"Ouch!\" (or everything else) everytime it bumps into something",
           "children": [],
@@ -129,6 +518,64 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MQTT Vacuum Camera",
+          "description": "Home Assistant camera integration to render the maps of vacuums connected via MQTT (Valetudo, Valetudo RE, Congatudo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Camera Integration for Home Assistant to export and render all Vacuums connected via MQTT( including Valetudo Hypfer, Congaduto and RE(rand256)) Maps.",
+            "homepage": null,
+            "id": 639490707,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-17T19:48:23Z",
+            "open_issues": 4,
+            "owner": "sca075",
+            "repo": "mqtt_vacuum_camera",
+            "stars": 185,
+            "topics": [
+              "camera",
+              "camera-calibration",
+              "congaduto",
+              "hacs",
+              "hacs-integration",
+              "home-assistant",
+              "integration",
+              "vacuum-robot",
+              "valetudo",
+              "valetudo-re"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vacuum (zvldz)",
+          "description": "Firmware builder for first and second generation Roborock vacuums.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "firmware builder for roborock (gen1/gen2)",
+            "homepage": null,
+            "id": 171667254,
+            "language": "Shell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-13T08:36:21Z",
+            "open_issues": 1,
+            "owner": "zvldz",
+            "repo": "vacuum",
+            "stars": 158,
+            "topics": [
+              "firmware",
+              "roborock",
+              "vacuum",
+              "xiaomi"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
         },
         {
           "node_type": "item",
@@ -204,6 +651,60 @@
           "first_seen": "2026-08-29T00:57:16.475Z"
         },
         {
+          "node_type": "item",
+          "title": "VacuumTiger",
+          "description": "Modular, configuration-driven open source firmware for robot vacuums, with a generic TCP protocol for SLAM applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open Source Firmware for Robotic Vacuum cleaner",
+            "homepage": null,
+            "id": 850192751,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-20T00:48:10Z",
+            "open_issues": 1,
+            "owner": "codetiger",
+            "repo": "VacuumTiger",
+            "stars": 42,
+            "topics": [
+              "firmware",
+              "open-source",
+              "vacuum-cleaner"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Xiaomi Vacuum",
+          "description": "Home Assistant integration for Xiaomi and Dreame robot vacuums with map support, a maintained fork of Dreame Vacuum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Home Assistant integration for Xiaomi and Dreame robot vacuums",
+            "homepage": "https://community.home-assistant.io/t/xiaomi-vacuum-hacs-custom-integration-for-xiaomi-robot-vacuums-fork-of-tasshack-dreame-vacuum/1032685",
+            "id": 1194045101,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-17T10:24:02Z",
+            "open_issues": 0,
+            "owner": "matteocelani",
+            "repo": "xiaomi-vacuum",
+            "stars": 0,
+            "topics": [
+              "custom-component",
+              "dreame",
+              "hacs",
+              "home-assistant",
+              "homeassistant",
+              "robot-vacuum",
+              "xiaomi"
+            ]
+          },
+          "first_seen": "2026-11-17T23:49:34.450Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -218,7 +719,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-01-07T16:21:45Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "hybridgroup",
                 "repo": "gobot",
                 "stars": 9498,
@@ -270,7 +771,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8012,
+                "stars": 8014,
                 "topics": [
                   "localization",
                   "mapping",
@@ -364,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:46:15.249Z",
+    "last_updated": "2026-11-17T23:49:34.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
@@ -372,8 +873,8 @@
       "id": 303284177,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2021-12-27T18:21:03Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-17T16:57:37Z",
+      "open_issues": 0,
       "owner": "awesome-vacuum",
       "repo": "awesome-vacuum",
       "stars": 593,
@@ -391,7 +892,7 @@
         "vacuum-cleaner"
       ]
     },
-    "original_repository_sha": "dc06bd698e67ef4c3d447e655aff57e056357636",
+    "original_repository_sha": "379690435ed6e374b799209474c4fe777cf85c54",
     "enhanced_repository": "enhansome/enhansome-vacuum",
     "enhanced_repository_description": null,
     "title": "awesome-vacuum with stars"
