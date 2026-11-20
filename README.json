@@ -90,7 +90,7 @@
                 "open_issues": 4,
                 "owner": "makerspet",
                 "repo": "oomwoo",
-                "stars": 13153,
+                "stars": 13165,
                 "topics": [
                   "3d-printing",
                   "arduino",
@@ -126,7 +126,7 @@
                 "open_issues": 2,
                 "owner": "makerspet",
                 "repo": "oomwoo-pcb",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-11-17T23:49:34.450Z"
@@ -158,7 +158,7 @@
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 10021,
+            "stars": 10029,
             "topics": [
               "cloud-free",
               "dreame",
@@ -214,10 +214,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T14:59:30Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "Tasshack",
             "repo": "dreame-vacuum",
-            "stars": 2307,
+            "stars": 2308,
             "topics": [
               "dreame",
               "dreamehome",
@@ -288,7 +288,7 @@
             "open_issues": 74,
             "owner": "PiotrMachowski",
             "repo": "lovelace-xiaomi-vacuum-map-card",
-            "stars": 1955,
+            "stars": 1957,
             "topics": [
               "deebot",
               "ecovacs",
@@ -324,10 +324,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-20T03:21:16Z",
-            "open_issues": 168,
+            "open_issues": 169,
             "owner": "PiotrMachowski",
             "repo": "Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
-            "stars": 1436,
+            "stars": 1437,
             "topics": [
               "cloud",
               "custom-component",
@@ -452,7 +452,7 @@
             "open_issues": 4,
             "owner": "Sollimann",
             "repo": "CleanIt",
-            "stars": 326,
+            "stars": 327,
             "topics": [
               "autonomous-robots",
               "autonomy",
@@ -514,7 +514,7 @@
             "open_issues": 3,
             "owner": "porech",
             "repo": "roborock-oucher",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:16.475Z"
@@ -531,7 +531,7 @@
             "id": 639490707,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T19:05:23Z",
+            "last_commit": "2026-11-20T21:13:40Z",
             "open_issues": 0,
             "owner": "sca075",
             "repo": "mqtt_vacuum_camera",
@@ -722,7 +722,7 @@
                 "open_issues": 102,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9498,
+                "stars": 9497,
                 "topics": [
                   "arduino",
                   "beaglebone",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:31:53.876Z",
+    "last_updated": "2026-11-20T23:02:54.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
