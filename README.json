@@ -90,7 +90,7 @@
                 "open_issues": 4,
                 "owner": "makerspet",
                 "repo": "oomwoo",
-                "stars": 13174,
+                "stars": 13184,
                 "topics": [
                   "3d-printing",
                   "arduino",
@@ -122,7 +122,7 @@
                 "id": 1286462587,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T02:41:16Z",
+                "last_commit": "2026-11-22T21:25:36Z",
                 "open_issues": 2,
                 "owner": "makerspet",
                 "repo": "oomwoo-pcb",
@@ -158,7 +158,7 @@
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 10036,
+            "stars": 10043,
             "topics": [
               "cloud-free",
               "dreame",
@@ -187,7 +187,7 @@
             "open_issues": 322,
             "owner": "rytilahti",
             "repo": "python-miio",
-            "stars": 4344,
+            "stars": 4343,
             "topics": [
               "home-assistant",
               "home-automation",
@@ -217,7 +217,7 @@
             "open_issues": 17,
             "owner": "Tasshack",
             "repo": "dreame-vacuum",
-            "stars": 2311,
+            "stars": 2314,
             "topics": [
               "dreame",
               "dreamehome",
@@ -259,7 +259,7 @@
             "open_issues": 85,
             "owner": "dgiese",
             "repo": "dustcloud",
-            "stars": 2282,
+            "stars": 2283,
             "topics": [
               "hacking",
               "iot",
@@ -285,10 +285,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-24T15:59:35Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "PiotrMachowski",
             "repo": "lovelace-xiaomi-vacuum-map-card",
-            "stars": 1959,
+            "stars": 1961,
             "topics": [
               "deebot",
               "ecovacs",
@@ -324,10 +324,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-20T03:21:16Z",
-            "open_issues": 169,
+            "open_issues": 170,
             "owner": "PiotrMachowski",
             "repo": "Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
-            "stars": 1437,
+            "stars": 1439,
             "topics": [
               "cloud",
               "custom-component",
@@ -364,7 +364,7 @@
             "open_issues": 14,
             "owner": "koalazak",
             "repo": "dorita980",
-            "stars": 1210,
+            "stars": 1211,
             "topics": [
               "675",
               "690",
@@ -489,11 +489,11 @@
             "id": 602302890,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T19:22:46Z",
-            "open_issues": 76,
+            "last_commit": "2026-11-22T19:36:14Z",
+            "open_issues": 71,
             "owner": "Python-roborock",
             "repo": "python-roborock",
-            "stars": 252,
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-11-17T23:49:34.450Z"
@@ -531,11 +531,11 @@
             "id": 639490707,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T21:41:31Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-22T12:32:20Z",
+            "open_issues": 1,
             "owner": "sca075",
             "repo": "mqtt_vacuum_camera",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "camera",
               "camera-calibration",
@@ -722,7 +722,7 @@
                 "open_issues": 102,
                 "owner": "hybridgroup",
                 "repo": "gobot",
-                "stars": 9499,
+                "stars": 9502,
                 "topics": [
                   "arduino",
                   "beaglebone",
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:09:26.141Z",
+    "last_updated": "2026-11-22T22:25:48.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
