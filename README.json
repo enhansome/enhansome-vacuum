@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "kaiaai",
                 "repo": "LDS",
-                "stars": 238,
+                "stars": 239,
                 "topics": [
                   "3irobotix",
                   "arduino-library",
@@ -90,7 +90,7 @@
                 "open_issues": 4,
                 "owner": "makerspet",
                 "repo": "oomwoo",
-                "stars": 13229,
+                "stars": 13240,
                 "topics": [
                   "3d-printing",
                   "arduino",
@@ -122,7 +122,7 @@
                 "id": 1286462587,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T23:48:40Z",
+                "last_commit": "2026-11-27T23:07:21Z",
                 "open_issues": 3,
                 "owner": "makerspet",
                 "repo": "oomwoo-pcb",
@@ -158,7 +158,7 @@
             "open_issues": 0,
             "owner": "Hypfer",
             "repo": "Valetudo",
-            "stars": 10064,
+            "stars": 10071,
             "topics": [
               "cloud-free",
               "dreame",
@@ -217,7 +217,7 @@
             "open_issues": 19,
             "owner": "Tasshack",
             "repo": "dreame-vacuum",
-            "stars": 2321,
+            "stars": 2323,
             "topics": [
               "dreame",
               "dreamehome",
@@ -531,7 +531,7 @@
             "id": 639490707,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T17:08:23Z",
+            "last_commit": "2026-11-27T16:08:55Z",
             "open_issues": 0,
             "owner": "sca075",
             "repo": "mqtt_vacuum_camera",
@@ -774,7 +774,7 @@
                 "open_issues": 241,
                 "owner": "cartographer-project",
                 "repo": "cartographer",
-                "stars": 8021,
+                "stars": 8023,
                 "topics": [
                   "localization",
                   "mapping",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:59:18.432Z",
+    "last_updated": "2026-11-28T00:31:00.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free and open source software and hardware to build and control a robot vacuum.",
@@ -880,7 +880,7 @@
       "open_issues": 0,
       "owner": "awesome-vacuum",
       "repo": "awesome-vacuum",
-      "stars": 593,
+      "stars": 594,
       "topics": [
         "awesome-list",
         "awesome-vacuum",
